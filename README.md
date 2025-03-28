@@ -50,6 +50,13 @@ Host (macOS)
 - Configure receiving on TCP port 9997.
 - Create custom dashboards for event analysis.
 
+<img width="1440" alt="Screenshot 2025-03-25 at 11 56 22 PM" src="https://github.com/user-attachments/assets/57ca8ab6-a6dc-42fd-8bb3-aa31f2163695" />
+<img width="1440" alt="Screenshot 2025-03-26 at 12 00 56 AM" src="https://github.com/user-attachments/assets/5be204e1-1702-402a-9a4c-f8508a302c58" />
+<img width="1440" alt="Screenshot 2025-03-26 at 12 08 13 AM" src="https://github.com/user-attachments/assets/4386c330-e34b-41bc-9441-c01ee4aa8354" />
+
+
+
+
 ---
 
 ## 3. Forwarder Configuration
@@ -62,6 +69,8 @@ Host (macOS)
   splunk list forward-server
   splunk list monitor
   ```
+
+  
 
 ---
 
